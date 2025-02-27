@@ -67,8 +67,8 @@ Welcome to my GitHub! I'm a **Cloud Security Engineer** passionate about securin
 - 🏅 **Completed MSc Dissertation on Securing Microservices in Cloud Containers with Distinction**
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musalinux&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musalinux&layout=compact&theme=radical)
 
 ## 🤝 Let’s Connect!
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/musaddik-vasaikar/](#)
