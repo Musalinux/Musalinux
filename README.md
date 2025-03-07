@@ -21,11 +21,11 @@ Welcome to my GitHub! I'm a **Cloud Security Engineer** passionate about securin
 - **DevSecOps & Cloud Security**: Implementing security best practices in microservices & cloud-native environments
 
 ## 🎯 Skills & Technologies
-### **Programming Languages**
-![AWS]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=aws)](https://github.com/harish-sethuraman/readme-components)) 
-![Python]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components))
-![Docker]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker)](https://github.com/harish-sethuraman/readme-components))
-![Kubernetes][![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kubernetes)](https://github.com/harish-sethuraman/readme-components))
+### **Top Skills**
+![AWS](https://img.shields.io/badge/-AWS-3776AB?style=flat-square&logo=amazonwebservices&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-F7DF1E?style=flat-square&logo=Docker&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-A8B9CC?style=flat-square&logo=Kubernetes&logoColor=black)
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
