@@ -22,10 +22,10 @@ Welcome to my GitHub! I'm a **Cloud Security Engineer** passionate about securin
 
 ## 🎯 Skills & Technologies
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![AWS]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=aws)](https://github.com/harish-sethuraman/readme-components)) 
+![Python]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components))
+![Docker]([![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker)](https://github.com/harish-sethuraman/readme-components))
+![Kubernetes][![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kubernetes)](https://github.com/harish-sethuraman/readme-components))
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
