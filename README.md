@@ -1,6 +1,6 @@
 # Hi there, I'm Musaddik Vasaikar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Musalinux&label=Profile%20Views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=sohamdesigns98-prog&label=Profile%20Views&color=blue&style=plastic)
 
 🚀 **Platform Engineering | AWS | DevOps | Cloud Security | DevSecOps | MLOps**
 
